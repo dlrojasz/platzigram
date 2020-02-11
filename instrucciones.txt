@@ -1,0 +1,15 @@
+#Iniciar el entorno virtual (py -m venv venv)
+#Iniciar el entorno virtual (venv\Scripts\activate)
+#Instalar django (pip3 install django)
+#Ver todo lo que se ha instalado (pip3 freeze)
+#Iniciar proyecto de django (django-admin startproject platzigram .)
+#Activar el servidor (py manage.py runserver 10000)
+#Crear una aplicacion (py manage.py startapp posts)
+
+
+
+#Crear el archivo requirements.txt (pip3 freeze > requirements.txt)
+
+
+#Instalar todos los paquetes que se usan en toda la aplicacion dentro del 
+entorno virtual (venv) con el siguiente comando (pip3 install -r requirements.txt)

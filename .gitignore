@@ -1,0 +1,8 @@
+.vscode
+media
+pictures
+venv
+db.sqlite3
+__pycache__
+__init__.py
+migrations
